@@ -6,10 +6,10 @@
       "value": "GEN-UNIQUE-8"
     },
     "existingDomainName": {
-      "value": "contoso.com"
+      "value": "corp.brothers.com"
     },
     "adminUsername": {
-      "value": "AzureAdmin"
+      "value": "sqlAdmininistrator"
     },
     "adminPassword": {
       "value": "GEN-PASSWORD"
@@ -21,7 +21,7 @@
       "value": "GEN-PASSWORD"
     },
     "existingSqlSubnetName": {
-      "value": "default"
+      "value": "sqlVNET"
     },
   }
 }
